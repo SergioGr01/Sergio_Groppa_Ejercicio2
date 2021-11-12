@@ -1,4 +1,8 @@
 añade varias lineas
 
+<<<<<<< HEAD
 añadiendo cambios 1
 añadiendo cambios 2
+=======
+añadiendo cambios
+>>>>>>> sergio_groppa_rama
